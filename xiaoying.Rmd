@@ -1,0 +1,14 @@
+---
+title: "Xiaoying"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+
+* I am a third-year Ph.D. student at Dyson School of Applied Economics and Management.
+* My field of interest lies in the intersection of labor and development economics.
+* I currently work on worker's location decision.

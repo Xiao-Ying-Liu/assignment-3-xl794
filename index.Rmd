@@ -1,0 +1,16 @@
+---
+title: "Home"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Xiaoying Liu
+** GitHub Account**: https://github.com/Xiao-Ying-Liu
+
+## Rebecca Wooldridge
+** GitHub Account**: https://github.com/Rebecca-Wooldridge
+
+![Welcome to my website!](https://cdn-images-1.medium.com/max/1200/1*MxlvyZoQh2naoSwdloJcCA.jpeg)
