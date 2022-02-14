@@ -1,7 +1,21 @@
-output_dir: "."
+name: "my-website"
 navbar:
+  title: "Xiaoying's Website"
   left:
     - text: "Home"
       href: index.html
-    - text: "Xiaoying"
+    - text: "About Me"
       href: xiaoying.html
+    - text: "Working Papers"
+      href: wp.html
+    - text: "Publication"
+      href: pub.html
+    - text: "CV"
+      href: cv.html
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
