@@ -1,5 +1,5 @@
 ---
-title: "pub"
+title: "Publications"
 output: html_document
 ---
 
@@ -7,4 +7,3 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Publications
