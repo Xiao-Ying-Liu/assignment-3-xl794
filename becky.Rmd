@@ -1,0 +1,8 @@
+---
+title: "Rebecca Wooldridge"
+output: html_document
+---
+
+*   I am a first year PhD student in Natural Resources
+*   I research fishers (*Pekania pennanti*)
+*   I enjoy horse riding

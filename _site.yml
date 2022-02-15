@@ -12,6 +12,8 @@ navbar:
       href: pub.html
     - text: "CV"
       href: cv.html
+    - text: "About Becky"
+      href: becky.html
       
 output_dir: "."
 output:
